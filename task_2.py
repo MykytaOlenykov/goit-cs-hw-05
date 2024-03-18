@@ -1,7 +1,6 @@
 import requests
 from concurrent.futures import ThreadPoolExecutor
 from collections import Counter
-import re
 import matplotlib.pyplot as plt
 
 
